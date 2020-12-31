@@ -25,16 +25,20 @@ I have created some open source CLI projects in rust:
 
 
 ### *Skils*
-###### Languages: Python, Go, JavaScript, Rust
-###### Frameworks: Django, Polymer, Wiz
-###### DataBase: MySql
+```
+Languages: Python, Go, JavaScript, Rust
+Frameworks: Django, Polymer, Wiz
+DataBase: MySql
+```
 
 
-
+========================
 ### **Work Experience**
-==================================================================================================
+========================
+
+----------------------------------
 #### *Google ODC at GlobalLogic*
-==================================================================================================
+----------------------------------
 ##### Achievement / Task
 - Working as a full-stack developer at Google(Offshore Development Center) on behalf of GlobalLogic.
 - Working on public-facing project Blogger.com
@@ -44,16 +48,16 @@ I have created some open source CLI projects in rust:
   Go, Python, JavaScript, Polymer1.0, Polymer2.0, GCP Task Queue
 - Involved in python2.7 to Python3.0 migrations.
 
-----------------------------------------------------------------------------------------------------
+-----------------------
 #### *Hindustan Times*
-----------------------------------------------------------------------------------------------------
+------------------------
 ##### Achievement / Task
 - Working as a full-stack developer.
 - Involved in code review and feature design and development.
 
-----------------------------------------------------------------------------------------------------
+----------------------------------------------------
 #### *TriHedron(June 1st 2015 to Dec 24th 2015)*
-----------------------------------------------------------------------------------------------------
+----------------------------------------------------
 ##### Achievement / Task
 - Working as a full-stack developer.
 - Developing a CMS system to upload video and pdf content for courses.
@@ -61,17 +65,17 @@ I have created some open source CLI projects in rust:
 - Used JQuery with HTML5 and CSS (Bootstrap and Materialize) for developing the front-end of the dashboard.
 - Handling the MongoDB database, which included complex queries, deployment on EC2 instances.
 
-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------
 #### *NexThoughts(13th February 2014 to 30th June 2015)*
-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------
 ##### Achievement / Task
 - Working as a full-stack developer.
 - Develop a web application for event management.
 - Used JQuery with HTML5 and CSS (Bootstrap and Materialize) for developing the front-end of the dashboard.
 - Uses Groovy and grails for backend development.
 
------------------------------------------------
+--------------------
 #### **Contact**
------------------------------------------------
+--------------------
 Email: grvtyagi22@gmail.com <br>
 Contact: 8447860079

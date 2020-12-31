@@ -15,14 +15,13 @@ design and development of web-applications.
 ```
 
 ### Rust Open Source Contributions
-```
-I have created some open source CLI projects in rust:
+
+*Some open source contributions on CLI projects in rust:*
 1. [Quick Aliasing](https://github.com/grv07/quick-alias) is a useful tool for creating 
    aliases for long and repeated commands.
 2. [Brunt](https://github.com/grv07/brnt) A quick renaming tool with backup history.
 3. [ToDO](https://github.com/grv07/todo) A CLI task manager in rust.
 4. [Tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
-```
 
 
 ### *Skils*

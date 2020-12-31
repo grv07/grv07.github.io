@@ -10,7 +10,7 @@ Online profile(s):<br>
 
 ```
 Currently, I am looking for a Rust opportunity.
-A full-stack Senior Software Developer with 6 years of experience in <br>
+A full-stack Senior Software Developer with 6 years of experience in
 design and development of web-applications.
 ```
 

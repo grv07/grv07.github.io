@@ -3,7 +3,6 @@
 Email: grvtyagi22@gmail.com
 Contact: 8447860079
 ```
-Senior Software Developer with 6 years of experience in design and development.
 
 Online profile(s):<br>
 [stackoverflow](https://stackoverflow.com/users/3405842/grvtyagi),<br>
@@ -11,7 +10,7 @@ Online profile(s):<br>
 
 ```
 Currently, I am looking for a Rust opportunity.
-I am an experienced full-stack web-application developer who works on different technologies.
+A full-stack Senior Software Developer with 6 years of experience in design and development of web-applications.
 ```
 
 ### Rust Open Source Contributions

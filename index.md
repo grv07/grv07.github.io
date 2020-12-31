@@ -10,7 +10,8 @@ Online profile(s):<br>
 
 ```
 Currently, I am looking for a Rust opportunity.
-A full-stack Senior Software Developer with 6 years of experience in design and development of web-applications.
+A full-stack Senior Software Developer with 6 years of experience in <br>
+design and development of web-applications.
 ```
 
 ### Rust Open Source Contributions
@@ -38,8 +39,11 @@ DataBase: MySql
 
 ##### Achievement / Task
 - Working as a full-stack developer at Google(Offshore Development Center) on behalf of GlobalLogic.
-- Working on public-facing project Blogger.com
--  Working on an internal Chrome extension.
+- Contributing directly to Google codebase.
+- Working on public-facing project Blogger.com.
+- Writing unit test cases and test cases for UI as well.
+- I have been rigorously involved in code reviews.
+- Working on an internal Chrome extension.
 - Won individual excellence award for the year 2018-2019.
 - Handle multiple projects with different managers and on different technology stacks.
   Go, Python, JavaScript, Polymer1.0, Polymer2.0, GCP Task Queue
@@ -61,6 +65,7 @@ DataBase: MySql
 - Preparing the Software Requirement Specifications by interacting with the client.
 - Used JQuery with HTML5 and CSS (Bootstrap and Materialize) for developing the front-end of the dashboard.
 - Handling the MongoDB database, which included complex queries, deployment on EC2 instances.
+- I have been rigorously involved in code reviews.
 
 
 #### *4. NexThoughts(13th February 2014 to 30th June 2015)*

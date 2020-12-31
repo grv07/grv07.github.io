@@ -38,8 +38,8 @@ DataBase: MySql
 ----------------------------------
 
 ##### Achievement / Task
-- Working as a full-stack developer at Google(Offshore Development Center) on behalf of GlobalLogic.
-- Contributing directly to Google codebase.
+> Working as a full-stack developer at Google(Offshore Development Center) on behalf of GlobalLogic.
+> Contributing directly to Google codebase.
 - Working on public-facing project Blogger.com.
 - Writing unit test cases and test cases for UI as well.
 - I have been rigorously involved in code reviews.

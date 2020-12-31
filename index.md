@@ -30,9 +30,7 @@ DataBase: MySql
 ### **Work Experience**
 
 #### *1. Google ODC at GlobalLogic*
-----------------------------------
-
-##### Achievement / Task
+###### Full-stack developer (date)
 > Working as a full-stack developer at Google(Offshore Development Center) on behalf of GlobalLogic.
   Contributing directly to Google codebase.
   Working on public-facing project Blogger.com.
@@ -45,16 +43,12 @@ DataBase: MySql
  Involved in python2.7 to Python3.0 migrations.
 
 #### *2. Hindustan Times*
------------------------
-
-##### Achievement / Task
+###### Full-stack developer (date)
 > Working as a full-stack developer.
   Involved in code review and feature design and development.
 
 #### *3. TriHedron(June 1st 2015 to Dec 24th 2016)*
-------------------------
-
-##### Achievement / Task
+###### Full-stack developer (date)
 > Working as a full-stack developer.
  Developing a CMS system to upload video and pdf content for courses.
  Preparing the Software Requirement Specifications by interacting with the client.
@@ -64,15 +58,12 @@ DataBase: MySql
 
 
 #### *4. NexThoughts(13th February 2014 to 30th June 2015)*
------------------------------------------------------------
-##### Achievement / Task
-
+###### Full-stack developer (date)
 > Working as a full-stack developer.
   Develop a web application for event management.
   Used JQuery with HTML5 and CSS (Bootstrap and Materialize) for developing the front-end of the dashboard.
   Uses Groovy and grails for backend development.
 
-#### **Contact**
-
+###### **Contact**
 Email: grvtyagi22@gmail.com <br>
 Contact: 8447860079

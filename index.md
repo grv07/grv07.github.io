@@ -14,7 +14,7 @@ Currently, I am looking for a Rust opportunity.
 I am an experienced full-stack web-application developer who works on different technologies.
 ```
 
-### Rust Open Source
+### Rust Open Source Contributions
 ```markdown
 I have created some open source CLI projects in rust:
 1. [Quick Aliasing](https://github.com/grv07/quick-alias) is a useful tool for creating aliases for long and repeated commands.
@@ -32,13 +32,12 @@ DataBase: MySql
 ```
 
 
-========================
 ### **Work Experience**
 ========================
 
 ----------------------------------
 #### *Google ODC at GlobalLogic*
-----------------------------------
+
 ##### Achievement / Task
 - Working as a full-stack developer at Google(Offshore Development Center) on behalf of GlobalLogic.
 - Working on public-facing project Blogger.com
@@ -50,32 +49,36 @@ DataBase: MySql
 
 -----------------------
 #### *Hindustan Times*
-------------------------
+
 ##### Achievement / Task
 - Working as a full-stack developer.
 - Involved in code review and feature design and development.
 
-----------------------------------------------------
+------------------------
 #### *TriHedron(June 1st 2015 to Dec 24th 2015)*
-----------------------------------------------------
+
 ##### Achievement / Task
 - Working as a full-stack developer.
 - Developing a CMS system to upload video and pdf content for courses.
 - Preparing the Software Requirement Specifications by interacting with the client.
 - Used JQuery with HTML5 and CSS (Bootstrap and Materialize) for developing the front-end of the dashboard.
 - Handling the MongoDB database, which included complex queries, deployment on EC2 instances.
+-------------------------
 
 -----------------------------------------------------------
 #### *NexThoughts(13th February 2014 to 30th June 2015)*
------------------------------------------------------------
+
 ##### Achievement / Task
 - Working as a full-stack developer.
 - Develop a web application for event management.
 - Used JQuery with HTML5 and CSS (Bootstrap and Materialize) for developing the front-end of the dashboard.
 - Uses Groovy and grails for backend development.
+-----------------------------------------------------------
 
 --------------------
 #### **Contact**
---------------------
+
 Email: grvtyagi22@gmail.com <br>
 Contact: 8447860079
+
+--------------------

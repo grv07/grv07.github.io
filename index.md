@@ -26,7 +26,7 @@ design and development of web-applications.
 
 ### *Skils*
 ```
-Languages: Python, Go, JavaScript, Rust
+Languages: Python, Rust, JavaScript,
 Frameworks: Django, Polymer, Wiz
 DataBase: MySql
 ```

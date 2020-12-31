@@ -56,7 +56,7 @@ DataBase: MySql
 - Working as a full-stack developer.
 - Involved in code review and feature design and development.
 
-#### *3. TriHedron(June 1st 2015 to Dec 24th 2015)*
+#### *3. TriHedron(June 1st 2015 to Dec 24th 2016)*
 ------------------------
 
 ##### Achievement / Task

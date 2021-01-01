@@ -3,6 +3,7 @@
 Email: grvtyagi22@gmail.com <br>
 Contact: 8447860079 <br>
 Online profile(s): [stackoverflow](https://stackoverflow.com/users/3405842/grvtyagi), [github](https://github.com/grv07/)
+
 ```
 Currently, I am looking for a Rust opportunity.
 A full-stack Senior Software Developer with 6 years of experience in
@@ -18,61 +19,72 @@ design and development of web-applications.
 3. [ToDO](https://github.com/grv07/todo) A CLI task manager in rust.
 4. [Tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
 
+### *Professional Summary*
+- A dynamic IT professional with 6 year of experience as a full stack developer.
+- Proficient working in **Python, Django, Javascript**.
+- Hands on experience on a **distributed system** with **GCP tasks**.
+- Working experience of **Go**.
+- Create and manage **Chrome extension**.
+- Contributing directly to **Google codebase**.
+- Expertise in **MySql** Database.
+- Architecting with **Google Cloud Platform and AWS**.
+- Well versed with **Git** version.
+- Very good understanding and experience in the Agile.
+- Follow **Googles code style guide and best practices**.
+
+### *Work Experience*
+>
+1. Currently working as a **Fullstack Senior Software Developer** in **Google ODC at GlobalLogic since Dec 2017 to till date**. 
+
+2. Worked as a **Fullstack Developer** with **Hindustan Times Pvt. Ltd. from Jan 2017 to Dec 2017**.
+
+3. Worked as a **Fullstack Developer** with **Trihedron Infotech Pvt. Ltd. from 1st June 2015 to Dec 2016**.
+
+5. Worked as a **Full stack Developer** with **NextThoughts Pvt. Ltd. from  Feb 2014 to June 2015**.
+
 
 ### *Skils*
 ```
-Languages: Python, Rust, JavaScript,
+Languages: Python, Rust, JavaScript, Go
 Frameworks: Django, Polymer, Wiz
 DataBase: MySql
 ```
 
-
-### **Work Experience**
-
-#### *1. Google ODC at GlobalLogic*
-----------------------------------
-
-##### Achievement / Task
-> Working as a full-stack developer at Google(Offshore Development Center) on behalf of GlobalLogic.
-  Contributing directly to Google codebase.
-  Working on public-facing project Blogger.com.
-  Writing unit test cases and test cases for UI as well.
-  I have been rigorously involved in code reviews.
-  Working on an internal Chrome extension.
-  Won individual excellence award for the year 2018-2019.
-  Handle multiple projects with different managers and on different technology stacks.
-  Go, Python, JavaScript, Polymer1.0, Polymer2.0, GCP Task Queue
- Involved in python2.7 to Python3.0 migrations.
-
-#### *2. Hindustan Times*
------------------------
-
-##### Achievement / Task
-> Working as a full-stack developer.
-  Involved in code review and feature design and development.
-
-#### *3. TriHedron(June 1st 2015 to Dec 24th 2016)*
-------------------------
-
-##### Achievement / Task
-> Working as a full-stack developer.
- Developing a CMS system to upload video and pdf content for courses.
- Preparing the Software Requirement Specifications by interacting with the client.
- Used JQuery with HTML5 and CSS (Bootstrap and Materialize) for developing the front-end of the dashboard.
- Handling the MongoDB database, which included complex queries, deployment on EC2 instances.
- I have been rigorously involved in code reviews.
+### **Awards and Achievement**
+>
+- Got the Appreciation for the Quality work in the current organization (GlobalLogic India).
+- Got individual excellence award for year (2018-2019).
+- Got two quarter awards and bonus for performance.
 
 
-#### *4. NexThoughts(13th February 2014 to 30th June 2015)*
------------------------------------------------------------
-##### Achievement / Task
+### **Projects**
+##### 1. Blogger.com (Google)
+> 
+Blogger is a blog-publishing service that allows multi-user blogs with time-stamped entries.
+Role: JavaScript Developer
+Team Size: 13
 
-> Working as a full-stack developer.
-  Develop a web application for event management.
-  Used JQuery with HTML5 and CSS (Bootstrap and Materialize) for developing the front-end of the dashboard.
-  Uses Groovy and grails for backend development.
+##### 2. Shift Scheduler
+>
+A shift scheduler tool for scheduling shifts of employees based on their leave(s), skill(s) and location.
+**Role: FullStack developer(Python, Go, javascript)**
+**Team Size: 3**
 
-#### **Contact**
+##### 3. LMS
+>
+A web application for online learning.
+Developing a **CMS system** to **upload video and pdf content** for courses. It will track users progress and notify them 
+time to time for complete the course.
+**Role: FullStack developer(python, django, javascript)**
+**Team Size: 3**
 
-Email: grvtyagi22@gmail.com <br>
-Contact: 8447860079
+##### 4. Tam on Tap
+>
+A distributed application that was connected with shift scheduler and google hangout bot to assign tasks to support 
+team and notify them if someone is waiting for their response.
+**Role: Bug fixing(Go, Python)**
+**Team Size: 2**
+
+#### Declaration:
+I hereby declare that all the information provided is true to the best of my knowledge and belief. 
+

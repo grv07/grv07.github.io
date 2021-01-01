@@ -12,7 +12,7 @@ design and development of web-applications.
 
 ### Rust Open Source Contributions
 
-*Some open source contributions on CLI projects in rust:*
+*Some open-source contributions on CLI projects in rust:*
 1. [Quick Aliasing](https://github.com/grv07/quick-alias) is a useful tool for creating 
    aliases for long and repeated commands.
 2. [Brunt](https://github.com/grv07/brnt) A quick renaming tool with backup history.
@@ -20,27 +20,27 @@ design and development of web-applications.
 4. [Tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
 
 ### *Professional Summary*
-- A dynamic IT professional with 6 year of experience as a full stack developer.
+- A dynamic IT professional with 6 years of experience as a full-stack developer.
 - Proficient working in **Python, Django, Javascript**.
-- Hands on experience on a **distributed system** with **GCP tasks**.
+- Hands-on experience on a **distributed system** with **GCP tasks**.
 - Working experience of **Go**.
 - Create and manage **Chrome extension**.
 - Contributing directly to **Google codebase**.
 - Expertise in **MySql** Database.
 - Architecting with **Google Cloud Platform and AWS**.
 - Well versed with **Git** version.
-- Very good understanding and experience in the Agile.
-- Follow **Googles code style guide and best practices**.
+- Very good understanding and experience in Agile.
+- Follow **Google's code style guide and best practices**.
 
 ### *Work Experience*
 >
-1. Currently working as a **Fullstack Senior Software Developer** in **Google ODC at GlobalLogic since Dec 2017 to till date**. 
+1. Currently working as a **Fullstack Senior Software Developer** in **Google ODC at GlobalLogic since Dec 2017 to date**. 
 
 2. Worked as a **Fullstack Developer** with **Hindustan Times Pvt. Ltd. from Jan 2017 to Dec 2017**.
 
 3. Worked as a **Fullstack Developer** with **Trihedron Infotech Pvt. Ltd. from 1st June 2015 to Dec 2016**.
 
-5. Worked as a **Full stack Developer** with **NextThoughts Pvt. Ltd. from  Feb 2014 to June 2015**.
+5. Worked as a **Full-stack Developer** with **NextThoughts Pvt. Ltd. from  Feb 2014 to June 2015**.
 
 
 ### *Skils*
@@ -52,9 +52,9 @@ DataBase: MySql
 
 ### **Awards and Achievement**
 >
-- Got the Appreciation for the Quality work in the current organization (GlobalLogic India).
-- Got individual excellence award for year (2018-2019).
-- Got two quarter awards and bonus for performance.
+- Got Appreciation for the Quality work in the current organization (GlobalLogic India).
+- Got individual excellence award for the year (2018-2019).
+- Got two awards and a bonus for performance.
 
 
 ### **Projects**
@@ -66,7 +66,7 @@ Team Size: 13
 
 ##### 2. Shift Scheduler
 >
-A shift scheduler tool for scheduling shifts of employees based on their leave(s), skill(s) and location.
+A shift scheduler tool for scheduling shifts of employees based on their leave(s), skill(s), and location.
 **Role: FullStack developer(Python, Go, javascript)**
 **Team Size: 3**
 
@@ -74,7 +74,7 @@ A shift scheduler tool for scheduling shifts of employees based on their leave(s
 >
 A web application for online learning.
 Developing a **CMS system** to **upload video and pdf content** for courses. It will track users progress and notify them 
-time to time for complete the course.
+time to time to complete the course.
 **Role: FullStack developer(python, django, javascript)**
 **Team Size: 3**
 

@@ -35,11 +35,11 @@ design and development of web-applications.
 ### *Work Experience*
 >
 1. Currently working as a **Fullstack Senior Software Developer** in **Google ODC at GlobalLogic since Dec 2017 to date**. 
-
+>
 2. Worked as a **Fullstack Developer** with **Hindustan Times Pvt. Ltd. from Jan 2017 to Dec 2017**.
-
+>
 3. Worked as a **Fullstack Developer** with **Trihedron Infotech Pvt. Ltd. from 1st June 2015 to Dec 2016**.
-
+>
 5. Worked as a **Full-stack Developer** with **NextThoughts Pvt. Ltd. from  Feb 2014 to June 2015**.
 
 
@@ -58,33 +58,33 @@ DataBase: MySql
 
 
 ### **Projects**
-##### 1. Blogger.com (Google)
+#### 1. Blogger.com (Google)
 > 
-Blogger is a blog-publishing service that allows multi-user blogs with time-stamped entries.
-Role: JavaScript Developer
-Team Size: 13
+Blogger is a blog-publishing service that allows multi-user blogs with time-stamped entries.<br>
+**Role: JavaScript Developer
+Team Size: 13**
 
-##### 2. Shift Scheduler
+#### 2. Shift Scheduler
 >
-A shift scheduler tool for scheduling shifts of employees based on their leave(s), skill(s), and location.
+A shift scheduler tool for scheduling shifts of employees based on their leave(s), skill(s), and location.<br>
 **Role: FullStack developer(Python, Go, javascript)**
 **Team Size: 3**
 
-##### 3. LMS
+#### 3. LMS
 >
 A web application for online learning.
-Developing a **CMS system** to **upload video and pdf content** for courses. It will track users progress and notify them 
-time to time to complete the course.
+Developing a **CMS system** to **upload video and pdf content** for courses. It will track users progress and notify them<br>
+time to time to complete the course.<br>
 **Role: FullStack developer(python, django, javascript)**
 **Team Size: 3**
 
-##### 4. Tam on Tap
+#### 4. Tam on Tap
 >
-A distributed application that was connected with shift scheduler and google hangout bot to assign tasks to support 
-team and notify them if someone is waiting for their response.
+A distributed application that was connected with shift scheduler and google hangout bot to assign tasks to support<br>
+team and notify them if someone is waiting for their response.<br>
 **Role: Bug fixing(Go, Python)**
 **Team Size: 2**
 
 #### Declaration:
-I hereby declare that all the information provided is true to the best of my knowledge and belief. 
+I hereby declare that all the information provided is true to the best of my knowledge and belief.<br>
 

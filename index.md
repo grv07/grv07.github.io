@@ -19,7 +19,7 @@ design and development of web-applications.
 3. [ToDO](https://github.com/grv07/todo) A CLI task manager in rust.
 4. [Tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
 
-### *Professional Summary*
+### **Professional Summary**
 - A dynamic IT professional with 6 years of experience as a full-stack developer.
 - Proficient working in **Python, Django, Javascript**.
 - Hands-on experience on a **distributed system** with **GCP tasks**.
@@ -32,7 +32,7 @@ design and development of web-applications.
 - Very good understanding and experience in Agile.
 - Follow **Google's code style guide and best practices**.
 
-### *Work Experience*
+### **Work Experience**
 >
 1. Currently working as a **Fullstack Senior Software Developer** in **Google ODC at GlobalLogic since Dec 2017 to date**. 
 >
@@ -43,19 +43,12 @@ design and development of web-applications.
 5. Worked as a **Full-stack Developer** with **NextThoughts Pvt. Ltd. from  Feb 2014 to June 2015**.
 
 
-### *Skils*
+### **Skils**
 ```
 Languages: Python, Rust, JavaScript, Go
 Frameworks: Django, Polymer, Wiz
 DataBase: MySql
 ```
-
-### **Awards and Achievement**
->
-- Got Appreciation for the Quality work in the current organization (GlobalLogic India).
-- Got individual excellence award for the year (2018-2019).
-- Got two awards and a bonus for performance.
-
 
 ### **Projects**
 #### 1. Blogger.com (Google)
@@ -84,3 +77,8 @@ A distributed application that was connected with shift scheduler and google han
 team and notify them if someone is waiting for their response.<br>
 **Role: Bug fixing(Go, Python)**
 **Team Size: 2**
+
+### **Awards and Achievement**
+- Got Appreciation for the Quality work in the current organization (GlobalLogic India).
+- Got individual excellence award for the year (2018-2019).
+- Got two awards and a bonus for performance.

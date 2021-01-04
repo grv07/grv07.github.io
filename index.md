@@ -84,7 +84,3 @@ A distributed application that was connected with shift scheduler and google han
 team and notify them if someone is waiting for their response.<br>
 **Role: Bug fixing(Go, Python)**
 **Team Size: 2**
-
-#### Declaration:
-I hereby declare that all the information provided is true to the best of my knowledge and belief.<br>
-

@@ -12,18 +12,19 @@ design and development of web-applications.
 ### Rust Open Source Contributions
 
 *Some open source contributions on CLI projects in rust:*
-1. [Quick Aliasing](https://github.com/grv07/quick-alias) is a useful tool for creating 
+1. [obunch](https://github.com/grv07/obunch) is a web api for shop management based on actix-web and tokio-postgres.
+1. [quick Aliasing](https://github.com/grv07/quick-alias) is a useful tool for creating 
    aliases for long and repeated commands.
-2. [Brunt](https://github.com/grv07/brnt) A quick renaming tool with backup history.
-3. [ToDO](https://github.com/grv07/todo) A CLI task manager in rust.
-4. [Tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
+2. [brunt](https://github.com/grv07/brnt) A quick renaming tool with backup history.
+3. [todO](https://github.com/grv07/todo) A CLI task manager in rust.
+4. [tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
 
 
 ### *Skils*
 ```
-Languages: Python, Rust, JavaScript,
-Frameworks: Django, Polymer, Wiz
-DataBase: MySql
+Languages: Rust, Python, JavaScript,
+Frameworks: Django, Wiz
+DataBase: postgres-sql
 ```
 
 

@@ -6,7 +6,7 @@ Online profile(s): [stackoverflow](https://stackoverflow.com/users/3405842/grvty
 
 ```
 Currently, I am looking for a Rust opportunity.
-A full-stack Senior Software Developer with 6 years of experience in
+A full-stack Senior Software Developer with 7+ years of experience in
 design and development of web-applications.
 ```
 

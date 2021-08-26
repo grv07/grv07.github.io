@@ -5,7 +5,7 @@ Contact: 8447860079 <br>
 Online profile(s): [stackoverflow](https://stackoverflow.com/users/3405842/grvtyagi), [github](https://github.com/grv07/)
 ```
 Currently, I am looking for a Rust opportunity.
-A full-stack Senior Software Developer with 6 years of experience in
+A full-stack Senior Software Developer with 7+ years of experience in
 design and development of web-applications.
 ```
 
@@ -13,11 +13,11 @@ design and development of web-applications.
 
 *Some open source contributions on CLI projects in rust:*
 1. [obunch](https://github.com/grv07/obunch) is a web api for shop management based on actix-web and tokio-postgres.
-1. [quick Aliasing](https://github.com/grv07/quick-alias) is a useful tool for creating 
+2. [quick Aliasing](https://github.com/grv07/quick-alias) is a useful tool for creating 
    aliases for long and repeated commands.
-2. [brunt](https://github.com/grv07/brnt) A quick renaming tool with backup history.
-3. [todO](https://github.com/grv07/todo) A CLI task manager in rust.
-4. [tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
+3. [brunt](https://github.com/grv07/brnt) A quick renaming tool with backup history.
+4. [todO](https://github.com/grv07/todo) A CLI task manager in rust.
+5. [tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
 
 
 ### *Skils*

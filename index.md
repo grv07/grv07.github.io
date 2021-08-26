@@ -13,7 +13,7 @@ design and development of web-applications.
 ### Rust Open Source Contributions
 
 *Some open-source contributions on CLI projects in rust:*
-1. [obunch](https://github.com/grv07/obunch) is a web api for shop management based on actix-web and tokio-postgres.
+1. [obunch](https://github.com/grv07/obunch) is a web API for shop management based on actix-web and tokio-postgres.
 2. [quick Aliasing](https://github.com/grv07/quick-alias) is a useful tool for creating 
    aliases for long and repeated commands.
 3. [brunt](https://github.com/grv07/brnt) A quick renaming tool with backup history.

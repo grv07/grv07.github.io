@@ -22,10 +22,9 @@ design and development of web-applications.
 
 
 ### **Professional Summary**
-- A dynamic IT professional with 6 years of experience as a full-stack developer.
-- Proficient working in **Python, Django, Javascript**.
+- A dynamic IT professional with 7+ years of experience as a full-stack developer.
+- Proficient working in **Rust, Python, Django, Javascript**.
 - Hands-on experience on a **distributed system** with **GCP tasks**.
-- Working experience of **Go**.
 - Create and manage **Chrome extension**.
 - Contributing directly to **Google codebase**.
 - Expertise in **MySql** Database.
@@ -47,7 +46,7 @@ design and development of web-applications.
 
 ### **Skils**
 ```
-Languages: Python, Rust, JavaScript, Go
+Languages: Python, Rust, JavaScript
 Frameworks: Django, Polymer, Wiz
 DataBase: MySql
 ```

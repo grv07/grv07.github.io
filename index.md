@@ -16,9 +16,8 @@ design and development of web-applications.
 1. [obunch](https://github.com/grv07/obunch) is a web API for shop management based on actix-web and tokio-postgres.
 2. [quick Aliasing](https://github.com/grv07/quick-alias) is a useful tool for creating 
    aliases for long and repeated commands.
-3. [brunt](https://github.com/grv07/brnt) A quick renaming tool with backup history.
-4. [todO](https://github.com/grv07/todo) A CLI task manager in rust.
-5. [tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
+3. [todO](https://github.com/grv07/todo) A CLI task manager in rust.
+4. [tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
 
 
 ### **Professional Summary**

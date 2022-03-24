@@ -16,7 +16,7 @@ design and development of web-applications.
 2. [quick Aliasing](https://github.com/grv07/quick-alias) is a useful tool for creating 
    aliases for long and repeated commands.
 3. [brunt](https://github.com/grv07/brnt) A quick renaming tool with backup history.
-4. [todO](https://github.com/grv07/todo) A CLI task manager in rust.
+4. [todo](https://github.com/grv07/todo) A CLI task manager in rust.
 5. [tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
 
 *Some PR's I have created in open source projects in rust:*

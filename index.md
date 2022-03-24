@@ -19,6 +19,12 @@ design and development of web-applications.
 3. [todo](https://github.com/grv07/todo) A CLI task manager in rust.
 4. [tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
 
+*Some PR's I have created in open source projects in rust:*
+
+1. https://github.com/djc/askama/pull/539
+2. https://github.com/jonhoo/left-right/pull/89
+3. https://github.com/jonhoo/left-right/pull/90
+4. https://github.com/jonhoo/fantoccini/pull/165
 
 ### **Professional Summary**
 - A dynamic IT professional with 7+ years of experience as a full-stack developer.

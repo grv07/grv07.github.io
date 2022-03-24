@@ -20,6 +20,7 @@ design and development of web-applications.
 5. [tree](https://github.com/grv07/tree) A CLI tool to print directory structure.
 
 *Some PR's I have created in open source projects in rust:*
+
 1. https://github.com/djc/askama/pull/539
 2. https://github.com/jonhoo/left-right/pull/89
 3. https://github.com/jonhoo/left-right/pull/90

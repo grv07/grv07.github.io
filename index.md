@@ -21,10 +21,10 @@ design and development of web-applications.
 
 *Some PR's I have created in open source projects in rust:*
 
-1. https://github.com/djc/askama/pull/539
-2. https://github.com/jonhoo/left-right/pull/89
-3. https://github.com/jonhoo/left-right/pull/90
-4. https://github.com/jonhoo/fantoccini/pull/165
+1. [https://github.com/djc/askama/pull/539](https://github.com/djc/askama/pull/539)
+2. [https://github.com/jonhoo/left-right/pull/89](https://github.com/jonhoo/left-right/pull/89)
+3. [https://github.com/jonhoo/left-right/pull/90](https://github.com/jonhoo/left-right/pull/90)
+4. [https://github.com/jonhoo/fantoccini/pull/165](https://github.com/jonhoo/fantoccini/pull/165)
 
 ### **Professional Summary**
 - A dynamic IT professional with 7+ years of experience as a full-stack developer.

@@ -9,10 +9,8 @@ Online profile(s): [stackoverflow](https://stackoverflow.com/users/3405842/grvty
 A full-stack Senior Software Developer with 8+ years of experience in
 design and development of microservices and web applications.
 ```
-
 ### Rust
-*Rust open source contributions:*
-
+**Rust open source contributions:**
 1. [Handle build hangs due to unintended template recursion](https://github.com/djc/askama/pull/539)
 2. [Add test case for append on write handle.](https://github.com/jonhoo/left-right/pull/89)
 3. [Added test case for the wait function of the write handler.](https://github.com/jonhoo/left-right/pull/90)
@@ -56,7 +54,6 @@ Database: Postgres
 ### **Work Experience**
 
 #### *1. Google ODC at GlobalLogic* (24 Dec 2018 to May 24th 2022)
-
 ##### Achievement / Task
 > Working as a **full-stack developer** at **Google(Offshore Development Center) on behalf of GlobalLogic**.<br>
   Contributing into **Google codebase** working on a public-facing project **Blogger.com**.<br>
@@ -69,13 +66,11 @@ Database: Postgres
 
 
 #### *2. Hindustan Times* (24Jan 2016 to Dec 24th 2018)
-
 ##### Achievement / Task
 > Working as a **full-stack developer**.
   Involved in code review and feature design and development.
 
 #### *3. TriHedron* (June 1st 2015 to Dec 24th 2016)
-
 ##### Achievement / Task
  > Working as a full-stack developer.
  Developing a **CMS system to upload video and pdf content for courses**.<br>
@@ -84,7 +79,6 @@ Database: Postgres
  Handling the MongoDB database, which included complex queries, and **deployment on EC2 instances**.<br>
 
 #### *4. NexThoughts* (13th February 2014 to 30th June 2015)
-
 ##### Achievement / Task
 >  Working as a full-stack developer.
   Develop a web application for event management.<br>

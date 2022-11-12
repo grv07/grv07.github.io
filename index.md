@@ -41,10 +41,9 @@ the system to process by TSO's.
 1. Involved in Creating PR, reviews, testing, and merging changes into release.
 2. Involved in all of the design decisions for a new feature.
 3. Responsible for migrating the sqlx to SeaOrm for DB interactions.
-4. Implementing if we have any POC ideas to make our development/project easy to test and manage.<br>
-   4.1. I have written a configuration that makes our `cron jobs` easy to test.<br>
-   4.2. Restructure our whole modules for sea_orm.<br>
-   4.3. Restructure our configurations management system.<br> 
+4. Implementing if we have any POC ideas to make our development/project easy to test and manage.
+   4.1. Restructure our whole modules with sea_orm.
+   4.2. Restructure our environment constants management system.
 ```
 
 ### *Skils*

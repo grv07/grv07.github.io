@@ -23,16 +23,17 @@ design and development of microservices and web applications.
 
 ### **Profesional experiance:**
 ```
-I am working on a Lead management system that is responsible to provide a smooth experience<br>
-to the users and to the calling teams and capable to handle the complete life cycle of a lead.<br>
+I am working on a Lead management system that is responsible to provide a smooth experience
+to the users and to the calling teams and capable to handle the complete life cycle of a lead.
 
-This is a microservices-based environment that communicate on grpc services design in rust.<br>
-Our main focus is to design a system that handles all of the complicate state changes of a lead and have a real time<br>
-response from TSO(Telecommunications Service Order) team.
+This is a microservices-based environment that communicate on grpc services design in rust.
+Our main focus is to design a system that handles all of the complicate state changes of 
+a lead and have a real time response from TSO(Telecommunications Service Order) team.
 
-I am also involved in developing an environment with WhatsApp API to engage audiences, accelerate sales and drive better<br>
-customer support outcomes by developing capabilties to parse and create new leads from chat messages <br>
-and push them in to system to process by TSO's.<br>
+I am also involved in developing an environment with WhatsApp API to engage audiences, 
+accelerate sales and drive better customer support outcomes. 
+By developing capabilties to parse and create new leads from chat messagesand push them in to
+the system to process by TSO's.
 ```
 
 ### **My responsibilities:**
@@ -58,45 +59,35 @@ Database: Postgres
 #### *1. Google ODC at GlobalLogic* (24 Dec 2018 to May 24th 2022)
 
 ##### Achievement / Task
-```
-  Working as a full-stack developer at Google(Offshore Development Center) on behalf of GlobalLogic.
-  Contributing directly to Google codebase.
-  Working on a public-facing project Blogger.com.
-  Writing unit test cases and test cases for UI as well.
-  I have been rigorously involved in code reviews.
-  Working on an internal Chrome extension.
-  Won individual excellence award for the year 2018-2019.
-  Handle multiple projects with different managers and on different technology stacks.
-  Go, Python, JavaScript, Polymer1.0, Polymer2.0, GCP Task Queue
-  Involved in python2.7 to Python3.0 migrations.
-```
+> Working as a **full-stack developer** at **Google(Offshore Development Center) on behalf of GlobalLogic**.<br>
+  Contributing into **Google codebase** working on a public-facing project **Blogger.com**.<br>
+  Writing **unit test cases and test cases for UI as well**.I have been rigorously **involved in code reviews.**<br>
+  Working on an internal **Chrome extension**.<br>
+  Won **individual excellence award** for the year **2018-2019**.<br>
+  Handle multiple projects with different managers and on different technology stacks.<br>
+  **Go, Python, JavaScript, Polymer1.0, Polymer2.0, GCP Task Queue**
+  Involved in **python2.7 to Python3.0 migrations**.
+
 
 #### *2. Hindustan Times* (24Jan 2016 to Dec 24th 2018)
 
 ##### Achievement / Task
-```
-  Working as a full-stack developer.
+> Working as a **full-stack developer**.
   Involved in code review and feature design and development.
-```
 
-#### *3. TriHedron(June 1st 2015 to Dec 24th 2016)
-
-##### Achievement / Task
-```
- Working as a full-stack developer.
- Developing a CMS system to upload video and pdf content for courses.
- Preparing the Software Requirement Specifications by interacting with the client.
- Used JQuery with HTML5 and CSS (Bootstrap and Materialize) for developing the front end of the dashboard.
- Handling the MongoDB database, which included complex queries, and deployment on EC2 instances.
- I have been rigorously involved in code reviews.
-``` 
-
-#### *4. NexThoughts(13th February 2014 to 30th June 2015)
+#### *3. TriHedron* (June 1st 2015 to Dec 24th 2016)
 
 ##### Achievement / Task
-```
-  Working as a full-stack developer.
-  Develop a web application for event management.
-  Used JQuery with HTML5 and CSS (Bootstrap and Materialize) for developing the front end of the dashboard.
-  Uses Groovy and grails for backend development.
-```
+ > Working as a full-stack developer.
+ Developing a **CMS system to upload video and pdf content for courses**.<br>
+ Preparing the Software Requirement Specifications by interacting with the client.<br>
+ Used **JQuery with HTML5 and CSS (Bootstrap and Materialize)** for developing the front end of the dashboard.<br>
+ Handling the MongoDB database, which included complex queries, and **deployment on EC2 instances**.<br>
+
+#### *4. NexThoughts* (13th February 2014 to 30th June 2015)
+
+##### Achievement / Task
+>  Working as a full-stack developer.
+  Develop a web application for event management.<br>
+  Used **JQuery with HTML5 and CSS (Bootstrap and Materialize)** for developing the front end of the dashboard.<br>
+  Uses **Groovy and grails** for backend development.

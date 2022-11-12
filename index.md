@@ -4,16 +4,13 @@ Email: grvtyagi22@gmail.com <br>
 Contact: 8447860079 <br>
 Online profile(s): [stackoverflow](https://stackoverflow.com/users/3405842/grvtyagi), [github](https://github.com/grv07/)
 ```
-I am looking for a Rust opportunity.
-```
+** I am looking for a Rust opportunity. **
 
-```
 A full-stack Senior Software Developer with 8+ years of experience in
-design and development microservices and web applications.
+design and development of microservices and web applications.
 ```
 
 ### Rust
-
 *Rust open source contributions:*
 
 1. [Handle build hangs due to unintended template recursion](https://github.com/djc/askama/pull/539)
@@ -26,9 +23,16 @@ design and development microservices and web applications.
 
 ### **Profesional experiance:**
 ```
-Professionally I am working on a Lead management system that is responsible to provide a smooth experience<br>
-to the users and to the calling team and capable to handle the complete life cycle of a lead.<br>
-This is a microservices-based environment.<br>
+I am working on a Lead management system that is responsible to provide a smooth experience<br>
+to the users and to the calling teams and capable to handle the complete life cycle of a lead.<br>
+
+This is a microservices-based environment that communicate on grpc services design in rust.<br>
+Our main focus is to design a system that handles all of the complicate state changes of a lead and have a real time<br>
+response from TSO(Telecommunications Service Order) team.
+
+I am also involved in developing an environment with WhatsApp API to engage audiences, accelerate sales and drive better<br>
+customer support outcomes by developing capabilties to parse and create new leads from chat messages <br>
+and push them in to system to process by TSO's.<br>
 ```
 
 ### **My responsibilities:**

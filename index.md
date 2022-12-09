@@ -10,19 +10,19 @@ A full-stack Senior Software Developer with 8+ years of experience in
 design and development of microservices and web applications.
 ```
 ### Rust
-**Rust open source contributions:**
-> [Askama implements a template rendering engine based on Jinja.](https://github.com/djc/askama)
-1. [Handle build hangs due to unintended template recursion](https://github.com/djc/askama/pull/539)
+**Rust open source contributions:**<br>
+*[Askama implements a template rendering engine based on Jinja.](https://github.com/djc/askama)*<br>
+1.[Handle build hangs due to unintended template recursion](https://github.com/djc/askama/pull/539)<br>
 
-> [Left-right is a concurrency primitive for high concurrency reads over a single-writer data structure.](https://github.com/jonhoo/left-right)
-2. [Add test case for append on write handle.](https://github.com/jonhoo/left-right/pull/89)
-3. [Added test case for the wait function of the write handler.](https://github.com/jonhoo/left-right/pull/90)
-4. [Fix typos in readme](https://github.com/jonhoo/fantoccini/pull/165)
+*[Left-right is a concurrency primitive for high concurrency reads over a single-writer data structure.](https://github.com/jonhoo/left-right)*<br>
+2. [Add test case for append on write handle.](https://github.com/jonhoo/left-right/pull/89)<br>
+3. [Added test case for the wait function of the write handler.](https://github.com/jonhoo/left-right/pull/90)<br>
+4. [Fix typos in readme](https://github.com/jonhoo/fantoccini/pull/165)<br>
 
-> [Helix: A Kakoune / Neovim inspired editor, written in Rust.](https://github.com/helix-editor/helix)
-5. [Add global error/warning count in the status line.](https://github.com/helix-editor/helix/pull/4569)
-6. [Add rename command.](https://github.com/helix-editor/helix/pull/4514)
-7. [Add : update that will write the changes if the file has been modified.](https://github.com/helix-editor/helix/pull/4426)
+*[Helix: A Kakoune / Neovim inspired editor, written in Rust.](https://github.com/helix-editor/helix)*<br>
+5. [Add global error/warning count in the status line.](https://github.com/helix-editor/helix/pull/4569)<br>
+6. [Add rename command.](https://github.com/helix-editor/helix/pull/4514)<br>
+7. [Add : update that will write the changes if the file has been modified.](https://github.com/helix-editor/helix/pull/4426)<br>
 
 ### **Profesional experiance:**
 ```

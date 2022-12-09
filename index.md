@@ -13,10 +13,12 @@ design and development of microservices and web applications.
 **Rust open source contributions:**
 > [Askama implements a template rendering engine based on Jinja.](https://github.com/djc/askama)
 1. [Handle build hangs due to unintended template recursion](https://github.com/djc/askama/pull/539)
+
 > [Left-right is a concurrency primitive for high concurrency reads over a single-writer data structure.](https://github.com/jonhoo/left-right)
 2. [Add test case for append on write handle.](https://github.com/jonhoo/left-right/pull/89)
 3. [Added test case for the wait function of the write handler.](https://github.com/jonhoo/left-right/pull/90)
 4. [Fix typos in readme](https://github.com/jonhoo/fantoccini/pull/165)
+
 > [Helix: A Kakoune / Neovim inspired editor, written in Rust.](https://github.com/helix-editor/helix)
 5. [Add global error/warning count in the status line.](https://github.com/helix-editor/helix/pull/4569)
 6. [Add rename command.](https://github.com/helix-editor/helix/pull/4514)

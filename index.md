@@ -1,7 +1,7 @@
 ## Gaurav Tyagi
 
 Email: grvtyagi22@gmail.com <br>
-Contact: 8447860079 <br>
+Contact: 8851302624 <br>
 Online profile(s): [stackoverflow](https://stackoverflow.com/users/3405842/grvtyagi), [github](https://github.com/grv07/)
 ```
 ** I am looking for a Rust opportunity. **
